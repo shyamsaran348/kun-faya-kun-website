@@ -1,0 +1,70 @@
+[
+    {
+        "id": "control-switching",
+        "name": "Control & Switching Devices",
+        "productFamilies": [
+            "Push Buttons",
+            "Emergency Stop Push Buttons",
+            "Selector Switches",
+            "Limit Switches",
+            "Pre-Wired Limit Switches",
+            "Micro Switches",
+            "Joystick / Monolever Switches"
+        ]
+    },
+    {
+        "id": "protection-circuit",
+        "name": "Protection & Circuit Control",
+        "productFamilies": [
+            "Contactors",
+            "MCCB (3 Pole)",
+            "MCCB (4 Pole)",
+            "Fuse Links",
+            "Fuse Bases",
+            "DC Fuse Link & Base",
+            "Fuse Pullers"
+        ]
+    },
+    {
+        "id": "relays-indicators",
+        "name": "Relays, Timers & Indicators",
+        "productFamilies": [
+            "Control Relays",
+            "Solid State Relays (SSR)",
+            "Timers",
+            "Hour Meters",
+            "Temperature Controllers",
+            "Panel Indicators"
+        ]
+    },
+    {
+        "id": "power-connectivity",
+        "name": "Power & Connectivity",
+        "productFamilies": [
+            "Industrial Plugs & Sockets (IP67)",
+            "Straight Sockets (IP67)",
+            "Socket Boxes",
+            "Switch Mode Power Supply (SMPS)",
+            "Drag Chains"
+        ]
+    },
+    {
+        "id": "signaling-safety",
+        "name": "Signaling & Safety",
+        "productFamilies": [
+            "Tower Lights",
+            "Slim Tower Lights",
+            "Revolving Lights",
+            "Emergency Buzzers & Indicators"
+        ]
+    },
+    {
+        "id": "electrical-accessories",
+        "name": "Electrical Accessories",
+        "productFamilies": [
+            "Push Button Enclosures",
+            "Bimetallic Lugs",
+            "Cable Accessories"
+        ]
+    }
+]

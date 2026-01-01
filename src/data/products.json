@@ -1,0 +1,647 @@
+[
+    {
+        "id": "industrial-plugs-sockets-ip67",
+        "name": "Industrial Plugs & Sockets (IP67)",
+        "category": "power-connectivity",
+        "image": "/images/products/industrial-plugs-sockets-ip67.jpg",
+        "description": "Heavy-duty industrial plugs and sockets designed for safe and reliable power connectivity in harsh environments.",
+        "typesAvailable": [
+            {
+                "label": "Current Ratings",
+                "values": [
+                    "16A",
+                    "32A",
+                    "63A",
+                    "125A"
+                ]
+            },
+            {
+                "label": "Pin Configuration",
+                "values": [
+                    "3P",
+                    "4P",
+                    "5P"
+                ]
+            },
+            {
+                "label": "Mounting",
+                "values": [
+                    "Panel",
+                    "Cable"
+                ]
+            },
+            {
+                "label": "Protection",
+                "values": [
+                    "IP67"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "straight-sockets-ip67",
+        "name": "Straight Sockets (IP67)",
+        "category": "power-connectivity",
+        "image": "/images/products/straight-sockets-ip67.jpg",
+        "description": "Industrial straight sockets engineered for secure electrical connections under demanding conditions.",
+        "typesAvailable": [
+            {
+                "label": "Current Ratings",
+                "values": [
+                    "16A",
+                    "32A",
+                    "63A",
+                    "125A"
+                ]
+            },
+            {
+                "label": "Pin Configuration",
+                "values": [
+                    "3P",
+                    "4P",
+                    "5P"
+                ]
+            },
+            {
+                "label": "Protection",
+                "values": [
+                    "IP67"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "socket-boxes",
+        "name": "Socket Boxes",
+        "category": "power-connectivity",
+        "image": "/images/products/socket-boxes.jpg",
+        "description": "Industrial socket boxes designed for organized and safe power distribution.",
+        "typesAvailable": [
+            {
+                "label": "Number of Ways",
+                "values": [
+                    "2 Way",
+                    "3 Way",
+                    "4 Way"
+                ]
+            },
+            {
+                "label": "Protection",
+                "values": [
+                    "IP44",
+                    "IP67"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "contactors",
+        "name": "Contactors",
+        "category": "protection-circuit",
+        "image": "/images/products/contactors.jpg",
+        "description": "Industrial-grade contactors suitable for reliable motor and load switching applications.",
+        "typesAvailable": [
+            {
+                "label": "Current Ratings",
+                "values": [
+                    "9A",
+                    "12A",
+                    "18A",
+                    "25A",
+                    "32A",
+                    "40A",
+                    "50A",
+                    "65A",
+                    "80A"
+                ]
+            },
+            {
+                "label": "Coil Voltage",
+                "values": [
+                    "AC",
+                    "DC"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "mccb-3p",
+        "name": "MCCB (3 Pole)",
+        "category": "protection-circuit",
+        "image": "/images/products/mccb-3p.jpg",
+        "description": "Moulded Case Circuit Breakers designed for effective protection against overloads and short circuits.",
+        "typesAvailable": [
+            {
+                "label": "Current Ratings",
+                "values": [
+                    "63A",
+                    "100A",
+                    "125A",
+                    "160A",
+                    "200A",
+                    "250A",
+                    "400A",
+                    "630A"
+                ]
+            },
+            {
+                "label": "Breaking Capacity",
+                "values": [
+                    "25kA",
+                    "36kA",
+                    "50kA",
+                    "60kA"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "single-pole-mcb",
+        "name": "Single Pole MCB",
+        "category": "protection-circuit",
+        "image": "/images/products/single-pole-mcb.jpg",
+        "description": "Single pole miniature circuit breakers for reliable circuit protection.",
+        "typesAvailable": [
+            {
+                "label": "Current Ratings",
+                "values": [
+                    "6A",
+                    "10A",
+                    "16A",
+                    "20A",
+                    "25A",
+                    "32A",
+                    "40A",
+                    "63A"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "three-pole-mcb",
+        "name": "Three Pole MCB",
+        "category": "protection-circuit",
+        "image": "/images/products/three-pole-mcb.jpg",
+        "description": "Three pole miniature circuit breakers for 3-phase circuit protection.",
+        "typesAvailable": [
+            {
+                "label": "Current Ratings",
+                "values": [
+                    "6A",
+                    "10A",
+                    "16A",
+                    "20A",
+                    "25A",
+                    "32A",
+                    "40A",
+                    "63A"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "four-pole-mcb",
+        "name": "Four Pole MCB",
+        "category": "protection-circuit",
+        "image": "/images/products/four-pole-mcb.jpg",
+        "description": "Four pole miniature circuit breakers for comprehensive circuit protection.",
+        "typesAvailable": [
+            {
+                "label": "Current Ratings",
+                "values": [
+                    "6A",
+                    "10A",
+                    "16A",
+                    "20A",
+                    "25A",
+                    "32A",
+                    "40A",
+                    "63A"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "copper-lugs",
+        "name": "Copper Lugs",
+        "category": "electrical-accessories",
+        "image": "/images/products/copper-lugs.jpg",
+        "description": "High-quality copper lugs for secure electrical connections.",
+        "typesAvailable": [
+            {
+                "label": "Cable Size",
+                "values": [
+                    "1.5 sqmm",
+                    "2.5 sqmm",
+                    "4 sqmm",
+                    "6 sqmm",
+                    "10 sqmm",
+                    "16 sqmm",
+                    "25 sqmm",
+                    "35 sqmm",
+                    "50 sqmm",
+                    "70 sqmm",
+                    "95 sqmm",
+                    "120 sqmm",
+                    "150 sqmm",
+                    "185 sqmm",
+                    "240 sqmm",
+                    "300 sqmm",
+                    "400 sqmm"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "fuse-links",
+        "name": "Fuse Links",
+        "category": "protection-circuit",
+        "image": "/images/products/fuse-links.jpg",
+        "description": "Industrial fuse links for protection against short circuits and overloads.",
+        "typesAvailable": [
+            {
+                "label": "Current Ratings",
+                "values": [
+                    "16A",
+                    "32A",
+                    "63A",
+                    "100A"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "fuse-bases",
+        "name": "Fuse Bases",
+        "category": "protection-circuit",
+        "image": "/images/products/fuse-bases.jpg",
+        "description": "Fuse bases designed to securely hold industrial fuse links.",
+        "typesAvailable": [
+            {
+                "label": "Mounting",
+                "values": [
+                    "DIN Rail",
+                    "Panel"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "bolted-fuse-link",
+        "name": "Bolted Type Fuse Link",
+        "category": "protection-circuit",
+        "image": "/images/products/bolted-fuse-link.jpg",
+        "description": "Heavy duty bolted type fuse links for secure high current protection.",
+        "typesAvailable": [
+            {
+                "label": "Type",
+                "values": [
+                    "Knife Blade",
+                    "Bolted Tag"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "fuse-pullers",
+        "name": "Fuse Pullers",
+        "category": "protection-circuit",
+        "image": "/images/products/fuse-pullers.jpg",
+        "description": "Insulated fuse pullers for safe fuse handling and replacement.",
+        "typesAvailable": [
+            {
+                "label": "Fuse Size Compatibility",
+                "values": [
+                    "NH00",
+                    "NH1",
+                    "NH2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "push-buttons",
+        "name": "Push Buttons (LA38 Series)",
+        "category": "control-switching",
+        "image": "/images/products/push-buttons-la38.jpg",
+        "description": "Industrial push buttons (LA38 Series) designed for control panels and machinery operation.",
+        "typesAvailable": [
+            {
+                "label": "Operation",
+                "values": [
+                    "Momentary",
+                    "Latching"
+                ]
+            },
+            {
+                "label": "Type",
+                "values": [
+                    "Standard",
+                    "Illuminated",
+                    "Mushroom Head"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "push-buttons-harmony",
+        "name": "Push Buttons (Harmony Series)",
+        "category": "control-switching",
+        "image": "/images/products/push-buttons-harmony.jpg",
+        "description": "Premium harmony series push buttons for modern industrial control applications.",
+        "typesAvailable": [
+            {
+                "label": "Operation",
+                "values": [
+                    "Momentary",
+                    "Latching"
+                ]
+            },
+            {
+                "label": "Design",
+                "values": [
+                    "Flush",
+                    "Projecting",
+                    "Booted"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "emergency-stop-push-buttons",
+        "name": "Emergency Stop Push Buttons",
+        "category": "control-switching",
+        "image": "/images/products/emergency-stop.jpg",
+        "description": "Emergency stop push buttons for safety-critical machine shutdown applications.",
+        "typesAvailable": [
+            {
+                "label": "Operation",
+                "values": [
+                    "Twist Release",
+                    "Pull Release"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "limit-switches",
+        "name": "Limit Switches",
+        "category": "control-switching",
+        "image": "/images/products/limit-switches.jpg",
+        "description": "Robust limit switches designed for precise position sensing in industrial automation systems.",
+        "typesAvailable": [
+            {
+                "label": "Actuator Type",
+                "values": [
+                    "Roller Lever",
+                    "Plunger",
+                    "Rotary Lever"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "prewired-limit-switches",
+        "name": "Pre-Wired Limit Switches",
+        "category": "control-switching",
+        "image": "/images/products/prewired-limit-switches.jpg",
+        "description": "Pre-wired limit switches for quick installation and reliable operation.",
+        "typesAvailable": [
+            {
+                "label": "Cable Length",
+                "values": [
+                    "1m",
+                    "2m",
+                    "5m"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "mini-limit-switches",
+        "name": "Mini Limit Switches",
+        "category": "control-switching",
+        "image": "/images/products/mini-limit-switches.jpg",
+        "description": "Compact mini limit switches for space-constrained applications.",
+        "typesAvailable": [
+            {
+                "label": "Actuator",
+                "values": [
+                    "Roller",
+                    "Plunger",
+                    "Lever"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "micro-switches",
+        "name": "Micro Switches",
+        "category": "control-switching",
+        "image": "/images/products/micro-switches.jpg",
+        "description": "Compact micro switches suitable for high-precision switching applications.",
+        "typesAvailable": [
+            {
+                "label": "Contact Type",
+                "values": [
+                    "NO",
+                    "NC",
+                    "NO+NC"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "joystick-switches",
+        "name": "Joystick / Monolever Switches",
+        "category": "control-switching",
+        "image": "/images/products/joystick-switches.jpg",
+        "description": "Joystick and monolever switches for directional and motion control applications.",
+        "typesAvailable": [
+            {
+                "label": "Direction Control",
+                "values": [
+                    "2 Direction",
+                    "4 Direction"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "control-relays",
+        "name": "Control Relays",
+        "category": "relays-indicators",
+        "image": "/images/products/control-relays.jpg",
+        "description": "Control relays for signal switching and control logic applications.",
+        "typesAvailable": [
+            {
+                "label": "Contact Configuration",
+                "values": [
+                    "SPDT",
+                    "DPDT"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "timers",
+        "name": "Timers",
+        "category": "relays-indicators",
+        "image": "/images/products/timers.jpg",
+        "description": "Industrial timers for delay and sequencing applications.",
+        "typesAvailable": [
+            {
+                "label": "Function",
+                "values": [
+                    "On Delay",
+                    "Off Delay",
+                    "Interval"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "temperature-controllers",
+        "name": "Temperature Controllers",
+        "category": "relays-indicators",
+        "image": "/images/products/temperature-controllers.jpg",
+        "description": "Temperature controllers for precise thermal regulation.",
+        "typesAvailable": [
+            {
+                "label": "Sensor Type",
+                "values": [
+                    "Thermocouple",
+                    "RTD"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "panel-indicators",
+        "name": "Panel Indicators",
+        "category": "relays-indicators",
+        "image": "/images/products/panel-indicators.jpg",
+        "description": "Panel-mounted indicators for voltage, current, frequency, and status indication.",
+        "typesAvailable": [
+            {
+                "label": "Indicator Type",
+                "values": [
+                    "Voltage",
+                    "Current",
+                    "Frequency",
+                    "Buzzer"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "tower-lights",
+        "name": "Tower Lights",
+        "category": "signaling-safety",
+        "image": "/images/products/tower-lights.jpg",
+        "description": "Visual signaling tower lights used for machine status indication.",
+        "typesAvailable": [
+            {
+                "label": "Number of Tiers",
+                "values": [
+                    "1 Tier",
+                    "2 Tier",
+                    "3 Tier",
+                    "4 Tier",
+                    "5 Tier"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "slim-tower-lights",
+        "name": "Slim Type Tower Lights",
+        "category": "signaling-safety",
+        "image": "/images/products/slim-tower-lights.jpg",
+        "description": "Slim design tower lights for space-saving signaling applications.",
+        "typesAvailable": [
+            {
+                "label": "Number of Tiers",
+                "values": [
+                    "1 Tier",
+                    "2 Tier",
+                    "3 Tier",
+                    "4 Tier",
+                    "5 Tier"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "revolving-lights",
+        "name": "Revolving Lights",
+        "category": "signaling-safety",
+        "image": "/images/products/revolving-lights.jpg",
+        "description": "Revolving warning lights for industrial safety signaling.",
+        "typesAvailable": [
+            {
+                "label": "Light Type",
+                "values": [
+                    "LED",
+                    "Halogen"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "push-button-enclosures",
+        "name": "Push Button Enclosures",
+        "category": "electrical-accessories",
+        "image": "/images/products/push-button-enclosures.jpg",
+        "description": "Enclosures designed for mounting industrial push buttons.",
+        "typesAvailable": [
+            {
+                "label": "Number of Holes",
+                "values": [
+                    "1 Hole",
+                    "2 Hole",
+                    "3 Hole"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "bimetallic-lugs",
+        "name": "Bimetallic Lugs",
+        "category": "electrical-accessories",
+        "image": "/images/products/bimetallic-lugs.jpg",
+        "description": "Bimetallic lugs suitable for reliable electrical termination of dissimilar metals.",
+        "typesAvailable": [
+            {
+                "label": "Cable Size",
+                "values": [
+                    "16 sqmm",
+                    "25 sqmm",
+                    "50 sqmm",
+                    "95 sqmm",
+                    "120 sqmm",
+                    "150 sqmm",
+                    "185 sqmm",
+                    "240 sqmm"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "cable-drum",
+        "name": "Cable Drum",
+        "category": "electrical-accessories",
+        "image": "/images/products/cable-drum.jpg",
+        "description": "Industrial cable drums for efficient cable management and extension.",
+        "typesAvailable": [
+            {
+                "label": "Length",
+                "values": [
+                    "25m",
+                    "50m",
+                    "100m"
+                ]
+            }
+        ]
+    }
+]

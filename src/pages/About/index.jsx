@@ -31,7 +31,7 @@ const About = () => {
                         <dd style={{ fontWeight: '500', color: '#0f172a' }}>Mr. Syed Khaled Ahmed</dd>
 
                         <dt style={{ fontWeight: '600', color: '#64748b' }}>GSTIN</dt>
-                        <dd style={{ fontWeight: '500', color: '#0f172a' }}>33FDVPM3696B1Z4</dd>
+                        <dd style={{ fontWeight: '500', color: '#0f172a', overflowWrap: 'anywhere' }}>33FDVPM3696B1Z4</dd>
 
                         <dt style={{ fontWeight: '600', color: '#64748b' }}>Location</dt>
                         <dd style={{ fontWeight: '500', color: '#0f172a' }}>Chennai, Tamil Nadu</dd>

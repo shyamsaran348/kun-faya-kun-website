@@ -130,8 +130,13 @@ header {
 
 .logo img {
     height: 48px;
-    width: auto;
+    width: 48px;
+    /* Fixed width to prevent squashing */
+    object-fit: contain;
+    /* Ensure logo isn't distorted */
     border-radius: 50%;
+    flex-shrink: 0;
+    /* Prevent shrinking on small screens */
     /* Optional: matches home page style */
 }
 

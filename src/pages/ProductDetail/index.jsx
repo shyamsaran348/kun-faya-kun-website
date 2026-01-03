@@ -61,6 +61,32 @@ const ProductDetail = () => {
 
                         <TypesAvailable types={product.typesAvailable} />
 
+                        {product.models && product.models.length > 0 && (
+                            <div className="models-section">
+                                <h3 style={{ marginBottom: '16px', fontSize: '1.1rem', color: '#0f172a' }}>Available Models</h3>
+                                <div className="table-container">
+                                    <table className="models-table">
+                                        <thead>
+                                            <tr>
+                                                <th>Model Code</th>
+                                                <th>Description</th>
+                                                <th>Std. Packing</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            {product.models.map((model, index) => (
+                                                <tr key={index}>
+                                                    <td style={{ fontWeight: 600, color: '#0f172a' }}>{model.code}</td>
+                                                    <td>{model.description}</td>
+                                                    <td>{model.stdPacking}</td>
+                                                </tr>
+                                            ))}
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        )}
+
                         <div className="product-cta">
                             <h3 style={{ marginBottom: '16px' }}>Interested in this product?</h3>
                             <div style={{ display: 'flex', gap: '16px', flexWrap: 'wrap' }}>

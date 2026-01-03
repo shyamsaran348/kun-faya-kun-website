@@ -4,7 +4,7 @@
         "name": "Industrial Plugs & Sockets (IP67)",
         "category": "power-connectivity",
         "image": "/images/products/industrial-plugs-sockets-ip67.jpg",
-        "description": "Heavy-duty industrial plugs and sockets designed for safe and reliable power connectivity in harsh environments.",
+        "description": "Heavy-duty industrial plugs designed for safe and reliable power connectivity in harsh environments.",
         "typesAvailable": [
             {
                 "label": "Current Ratings",
@@ -18,16 +18,9 @@
             {
                 "label": "Pin Configuration",
                 "values": [
-                    "3P",
-                    "4P",
-                    "5P"
-                ]
-            },
-            {
-                "label": "Mounting",
-                "values": [
-                    "Panel",
-                    "Cable"
+                    "3 Pin",
+                    "4 Pin",
+                    "5 Pin"
                 ]
             },
             {
@@ -35,6 +28,48 @@
                 "values": [
                     "IP67"
                 ]
+            }
+        ],
+        "models": [
+            {
+                "code": "TP-0132",
+                "description": "16A 3 Pin",
+                "stdPacking": "60"
+            },
+            {
+                "code": "TP-0142",
+                "description": "16A 4 Pin",
+                "stdPacking": "60"
+            },
+            {
+                "code": "TP-0152",
+                "description": "16A 5 Pin",
+                "stdPacking": "60"
+            },
+            {
+                "code": "TP-0232",
+                "description": "32A 3 Pin",
+                "stdPacking": "60"
+            },
+            {
+                "code": "TP-0242",
+                "description": "32A 4 Pin",
+                "stdPacking": "60"
+            },
+            {
+                "code": "TP-0252",
+                "description": "32A 5 Pin",
+                "stdPacking": "60"
+            },
+            {
+                "code": "TP-0352",
+                "description": "63A 5 Pin",
+                "stdPacking": "10"
+            },
+            {
+                "code": "TP-0452",
+                "description": "125A 5 Pin",
+                "stdPacking": "10"
             }
         ]
     },
@@ -57,9 +92,9 @@
             {
                 "label": "Pin Configuration",
                 "values": [
-                    "3P",
-                    "4P",
-                    "5P"
+                    "3 Pin",
+                    "4 Pin",
+                    "5 Pin"
                 ]
             },
             {
@@ -67,6 +102,48 @@
                 "values": [
                     "IP67"
                 ]
+            }
+        ],
+        "models": [
+            {
+                "code": "TP-2132",
+                "description": "16A 3 Pin",
+                "stdPacking": "60"
+            },
+            {
+                "code": "TP-2142",
+                "description": "16A 4 Pin",
+                "stdPacking": "60"
+            },
+            {
+                "code": "TP-2152",
+                "description": "16A 5 Pin",
+                "stdPacking": "60"
+            },
+            {
+                "code": "TP-2232",
+                "description": "32A 3 Pin",
+                "stdPacking": "60"
+            },
+            {
+                "code": "TP-2242",
+                "description": "32A 4 Pin",
+                "stdPacking": "60"
+            },
+            {
+                "code": "TP-2252",
+                "description": "32A 5 Pin",
+                "stdPacking": "60"
+            },
+            {
+                "code": "TP-2352",
+                "description": "63A 5 Pin",
+                "stdPacking": "10"
+            },
+            {
+                "code": "TP-2452",
+                "description": "125A 5 Pin",
+                "stdPacking": "10"
             }
         ]
     },
@@ -99,7 +176,7 @@
         "name": "Contactors",
         "category": "protection-circuit",
         "image": "/images/products/contactors.jpg",
-        "description": "Industrial-grade contactors suitable for reliable motor and load switching applications.",
+        "description": "Heavy-duty contactors for motor control and power switching.",
         "typesAvailable": [
             {
                 "label": "Current Ratings",
@@ -114,34 +191,68 @@
                     "65A",
                     "80A"
                 ]
+            }
+        ],
+        "models": [
+            {
+                "code": "TPD09",
+                "description": "9A",
+                "stdPacking": "20"
             },
             {
-                "label": "Coil Voltage",
-                "values": [
-                    "AC",
-                    "DC"
-                ]
+                "code": "TPD12",
+                "description": "12A",
+                "stdPacking": "20"
+            },
+            {
+                "code": "TPD18",
+                "description": "18A",
+                "stdPacking": "20"
+            },
+            {
+                "code": "TPD25",
+                "description": "25A",
+                "stdPacking": "10"
+            },
+            {
+                "code": "TPD32",
+                "description": "32A",
+                "stdPacking": "10"
+            },
+            {
+                "code": "TPD40",
+                "description": "40A",
+                "stdPacking": "10"
+            },
+            {
+                "code": "TPD50",
+                "description": "50A",
+                "stdPacking": "10"
+            },
+            {
+                "code": "TPD65",
+                "description": "65A",
+                "stdPacking": "5"
+            },
+            {
+                "code": "TPD80",
+                "description": "80A",
+                "stdPacking": "5"
             }
         ]
     },
     {
-        "id": "mccb-3p",
-        "name": "MCCB (3 Pole)",
+        "id": "mccb",
+        "name": "MCCB",
         "category": "protection-circuit",
-        "image": "/images/products/mccb-3p.jpg",
-        "description": "Moulded Case Circuit Breakers designed for effective protection against overloads and short circuits.",
+        "image": "/images/products/mccb.jpg",
+        "description": "Moulded Case Circuit Breakers for overload and short-circuit protection.",
         "typesAvailable": [
             {
-                "label": "Current Ratings",
+                "label": "Poles",
                 "values": [
-                    "63A",
-                    "100A",
-                    "125A",
-                    "160A",
-                    "200A",
-                    "250A",
-                    "400A",
-                    "630A"
+                    "3 Pole",
+                    "4 Pole"
                 ]
             },
             {
@@ -152,6 +263,68 @@
                     "50kA",
                     "60kA"
                 ]
+            }
+        ],
+        "models": [
+            {
+                "code": "TP-CM1-63A-3P",
+                "description": "63A 3P 25kA",
+                "stdPacking": "25"
+            },
+            {
+                "code": "TP-CM1-100A-3P",
+                "description": "100A 3P 25kA",
+                "stdPacking": "25"
+            },
+            {
+                "code": "TP-CM1-160A-3P",
+                "description": "160A 3P 36kA",
+                "stdPacking": "25"
+            },
+            {
+                "code": "TP-CM1-250A-3P",
+                "description": "250A 3P 36kA",
+                "stdPacking": "25"
+            },
+            {
+                "code": "TP-CM1-400A-3P",
+                "description": "400A 3P 50kA",
+                "stdPacking": "25"
+            },
+            {
+                "code": "TP-CM1-630A-3P",
+                "description": "630A 3P 60kA",
+                "stdPacking": "25"
+            },
+            {
+                "code": "TP-CM1-63A-4P",
+                "description": "63A 4P 25kA",
+                "stdPacking": "25"
+            },
+            {
+                "code": "TP-CM1-100A-4P",
+                "description": "100A 4P 25kA",
+                "stdPacking": "25"
+            },
+            {
+                "code": "TP-CM1-160A-4P",
+                "description": "160A 4P 36kA",
+                "stdPacking": "25"
+            },
+            {
+                "code": "TP-CM1-250A-4P",
+                "description": "250A 4P 36kA",
+                "stdPacking": "25"
+            },
+            {
+                "code": "TP-CM1-400A-4P",
+                "description": "400A 4P 50kA",
+                "stdPacking": "25"
+            },
+            {
+                "code": "TP-CM1-630A-4P",
+                "description": "630A 4P 60kA",
+                "stdPacking": "25"
             }
         ]
     },
@@ -388,7 +561,7 @@
         "name": "Limit Switches",
         "category": "control-switching",
         "image": "/images/products/limit-switches.jpg",
-        "description": "Robust limit switches designed for precise position sensing in industrial automation systems.",
+        "description": "Industrial limit switches for position sensing and safety interlocks.",
         "typesAvailable": [
             {
                 "label": "Actuator Type",
@@ -397,6 +570,38 @@
                     "Plunger",
                     "Rotary Lever"
                 ]
+            }
+        ],
+        "models": [
+            {
+                "code": "TP-CA12-2-Q",
+                "description": "Adjustable Roller Lever",
+                "stdPacking": "50"
+            },
+            {
+                "code": "TP-CA2-2",
+                "description": "Short Roller Lever",
+                "stdPacking": "50"
+            },
+            {
+                "code": "TP-D1",
+                "description": "Plunger Roller",
+                "stdPacking": "50"
+            },
+            {
+                "code": "TP-NJ",
+                "description": "Coil Spring",
+                "stdPacking": "50"
+            },
+            {
+                "code": "TP-SA-012",
+                "description": "Momentary Fixed Arm",
+                "stdPacking": "50"
+            },
+            {
+                "code": "TP-MD202",
+                "description": "Safety Pull Cord Switch",
+                "stdPacking": "50"
             }
         ]
     },
@@ -439,15 +644,42 @@
         "name": "Micro Switches",
         "category": "control-switching",
         "image": "/images/products/micro-switches.jpg",
-        "description": "Compact micro switches suitable for high-precision switching applications.",
+        "description": "Compact micro switches for precision switching.",
         "typesAvailable": [
             {
-                "label": "Contact Type",
+                "label": "Actuator",
                 "values": [
-                    "NO",
-                    "NC",
-                    "NO+NC"
+                    "Plunger",
+                    "Roller",
+                    "Lever"
                 ]
+            }
+        ],
+        "models": [
+            {
+                "code": "TP-V-15-1C25",
+                "description": "Basic Point",
+                "stdPacking": "1000"
+            },
+            {
+                "code": "TP-V-152-1C25",
+                "description": "Basic Small Patti",
+                "stdPacking": "1000"
+            },
+            {
+                "code": "TP-7100",
+                "description": "Short Push Plunger",
+                "stdPacking": "200"
+            },
+            {
+                "code": "TP-7121",
+                "description": "Long Hinge Roller Lever",
+                "stdPacking": "200"
+            },
+            {
+                "code": "TP-7310",
+                "description": "Top Plunger",
+                "stdPacking": "200"
             }
         ]
     },
@@ -488,7 +720,7 @@
         "name": "Timers",
         "category": "relays-indicators",
         "image": "/images/products/timers.jpg",
-        "description": "Industrial timers for delay and sequencing applications.",
+        "description": "Industrial timers for delay, interval, and sequencing control.",
         "typesAvailable": [
             {
                 "label": "Function",
@@ -497,6 +729,28 @@
                     "Off Delay",
                     "Interval"
                 ]
+            }
+        ],
+        "models": [
+            {
+                "code": "TP-QT",
+                "description": "Analog Timer",
+                "stdPacking": "100"
+            },
+            {
+                "code": "TP-AHC15A",
+                "description": "24 Hours Digital Timer",
+                "stdPacking": "100"
+            },
+            {
+                "code": "TP-H3CR-A8",
+                "description": "H3CR (220V)",
+                "stdPacking": "100"
+            },
+            {
+                "code": "TP-DH48",
+                "description": "Digital Hour Meter",
+                "stdPacking": "100"
             }
         ]
     },
@@ -539,10 +793,10 @@
         "name": "Tower Lights",
         "category": "signaling-safety",
         "image": "/images/products/tower-lights.jpg",
-        "description": "Visual signaling tower lights used for machine status indication.",
+        "description": "Industrial tower lights for machine status indication.",
         "typesAvailable": [
             {
-                "label": "Number of Tiers",
+                "label": "Tiers",
                 "values": [
                     "1 Tier",
                     "2 Tier",
@@ -550,6 +804,28 @@
                     "4 Tier",
                     "5 Tier"
                 ]
+            }
+        ],
+        "models": [
+            {
+                "code": "TP-PTS-1-U",
+                "description": "1 Tier with Buzzer",
+                "stdPacking": "30"
+            },
+            {
+                "code": "TP-PTS-2-U",
+                "description": "2 Tier with Buzzer",
+                "stdPacking": "30"
+            },
+            {
+                "code": "TP-PTS-3-U",
+                "description": "3 Tier with Buzzer",
+                "stdPacking": "30"
+            },
+            {
+                "code": "TP-PTS-5-U",
+                "description": "5 Tier with Buzzer",
+                "stdPacking": "30"
             }
         ]
     },

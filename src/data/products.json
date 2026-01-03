@@ -493,11 +493,11 @@
         ]
     },
     {
-        "id": "push-buttons",
+        "id": "push-buttons-la38",
         "name": "Push Buttons (LA38 Series)",
         "category": "control-switching",
         "image": "/images/products/push-buttons-la38.jpg",
-        "description": "Industrial push buttons (LA38 Series) designed for control panels and machinery operation.",
+        "description": "LA38 series industrial push buttons suitable for control panels and machinery operation.",
         "typesAvailable": [
             {
                 "label": "Operation",
@@ -514,6 +514,28 @@
                     "Mushroom Head"
                 ]
             }
+        ],
+        "models": [
+            {
+                "code": "LA38-11BN",
+                "description": "Green Momentary",
+                "stdPacking": "100"
+            },
+            {
+                "code": "LA38-11DN",
+                "description": "Red Momentary",
+                "stdPacking": "100"
+            },
+            {
+                "code": "LA38-11EN",
+                "description": "Yellow Momentary",
+                "stdPacking": "100"
+            },
+            {
+                "code": "LA38-20BN",
+                "description": "Green Latching",
+                "stdPacking": "100"
+            }
         ]
     },
     {
@@ -521,7 +543,7 @@
         "name": "Push Buttons (Harmony Series)",
         "category": "control-switching",
         "image": "/images/products/push-buttons-harmony.jpg",
-        "description": "Premium harmony series push buttons for modern industrial control applications.",
+        "description": "Harmony series premium push buttons for advanced industrial control panels.",
         "typesAvailable": [
             {
                 "label": "Operation",
@@ -538,6 +560,18 @@
                     "Booted"
                 ]
             }
+        ],
+        "models": [
+            {
+                "code": "XB2-BA31",
+                "description": "Green Flush Momentary",
+                "stdPacking": "50"
+            },
+            {
+                "code": "XB2-BS31",
+                "description": "Red Flush Momentary",
+                "stdPacking": "50"
+            }
         ]
     },
     {
@@ -548,11 +582,51 @@
         "description": "Emergency stop push buttons for safety-critical machine shutdown applications.",
         "typesAvailable": [
             {
-                "label": "Operation",
+                "label": "Release Type",
                 "values": [
                     "Twist Release",
                     "Pull Release"
                 ]
+            }
+        ],
+        "models": [
+            {
+                "code": "XB2-BS542",
+                "description": "Twist Release Mushroom Head",
+                "stdPacking": "50"
+            },
+            {
+                "code": "XB2-BS545",
+                "description": "Pull Release Mushroom Head",
+                "stdPacking": "50"
+            }
+        ]
+    },
+    {
+        "id": "selector-switches",
+        "name": "Selector Switches",
+        "category": "control-switching",
+        "image": "/images/products/selector-switches.jpg",
+        "description": "Rotary selector switches for mode and function selection in control panels.",
+        "typesAvailable": [
+            {
+                "label": "Positions",
+                "values": [
+                    "2 Position",
+                    "3 Position"
+                ]
+            }
+        ],
+        "models": [
+            {
+                "code": "LA38-20X",
+                "description": "2 Position Selector",
+                "stdPacking": "100"
+            },
+            {
+                "code": "LA38-30X",
+                "description": "3 Position Selector",
+                "stdPacking": "100"
             }
         ]
     },

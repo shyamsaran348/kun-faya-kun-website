@@ -169,10 +169,10 @@ nav a.active {
 }
 
 /* Footer */
-footer {
+.main-footer {
     background-color: var(--color-primary);
     color: white;
-    padding: var(--spacing-2xl) 0;
+    padding-top: var(--spacing-2xl);
     margin-top: auto;
 }
 
@@ -180,9 +180,74 @@ footer {
     max-width: var(--max-width);
     margin: 0 auto;
     padding: 0 var(--spacing-lg);
+}
+
+.footer-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: var(--spacing-2xl);
+    padding-bottom: var(--spacing-2xl);
+}
+
+.footer-title {
+    color: white;
+    font-size: 1.5rem;
+    margin-bottom: var(--spacing-md);
+    letter-spacing: 0.05em;
+}
+
+.footer-desc {
+    color: #94a3b8;
+    line-height: 1.6;
+    max-width: 300px;
+}
+
+.footer-heading {
+    color: var(--color-accent);
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    margin-bottom: var(--spacing-md);
+    letter-spacing: 0.05em;
+}
+
+.footer-links ul {
+    list-style: none;
+}
+
+.footer-links li {
+    margin-bottom: var(--spacing-sm);
+}
+
+.footer-links a {
+    color: #cbd5e1;
+    transition: color 0.2s;
+}
+
+.footer-links a:hover {
+    color: var(--color-accent);
+    padding-left: 4px;
+}
+
+.footer-contact p {
+    margin-bottom: var(--spacing-sm);
+    color: #cbd5e1;
+}
+
+.footer-contact a {
+    color: white;
+}
+
+.footer-bottom {
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    padding: var(--spacing-lg) 0;
     text-align: center;
-    opacity: 0.8;
+    color: #64748b;
     font-size: 0.9rem;
+}
+
+/* Page Transitions */
+.page-fade-in {
+    animation: fadeIn 0.5s ease-out forwards;
 }
 
 /* Products Page */

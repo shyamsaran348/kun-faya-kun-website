@@ -603,34 +603,6 @@
         ]
     },
     {
-        "id": "selector-switches",
-        "name": "Selector Switches",
-        "category": "control-switching",
-        "image": "/images/products/selector-switches.jpg",
-        "description": "Rotary selector switches for mode and function selection in control panels.",
-        "typesAvailable": [
-            {
-                "label": "Positions",
-                "values": [
-                    "2 Position",
-                    "3 Position"
-                ]
-            }
-        ],
-        "models": [
-            {
-                "code": "LA38-20X",
-                "description": "2 Position Selector",
-                "stdPacking": "100"
-            },
-            {
-                "code": "LA38-30X",
-                "description": "3 Position Selector",
-                "stdPacking": "100"
-            }
-        ]
-    },
-    {
         "id": "limit-switches",
         "name": "Limit Switches",
         "category": "control-switching",

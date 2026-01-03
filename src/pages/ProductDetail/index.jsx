@@ -93,9 +93,7 @@ const ProductDetail = () => {
                                 <Link to="/contact" className="btn btn-primary">
                                     Contact us for Specifications
                                 </Link>
-                                <button type="button" className="btn btn-disabled" disabled>
-                                    WhatsApp (Coming Soon)
-                                </button>
+
                             </div>
                         </div>
                     </div>

@@ -9,7 +9,7 @@ const TypesAvailable = ({ types }) => {
             <ul>
                 {types.map((type, index) => (
                     <li key={index}>
-                        <strong>• {type.label}:</strong> {type.values.join(', ')}
+                        <strong>{type.label}:</strong> {type.values.join(', ')}
                     </li>
                 ))}
             </ul>

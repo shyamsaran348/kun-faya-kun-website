@@ -195,47 +195,47 @@
         ],
         "models": [
             {
-                "code": "TPD09",
-                "description": "9A",
+                "code": "TP1D09",
+                "description": "09A",
                 "stdPacking": "20"
             },
             {
-                "code": "TPD12",
+                "code": "TP1D12",
                 "description": "12A",
                 "stdPacking": "20"
             },
             {
-                "code": "TPD18",
+                "code": "TP1D18",
                 "description": "18A",
                 "stdPacking": "20"
             },
             {
-                "code": "TPD25",
+                "code": "TP1D25",
                 "description": "25A",
                 "stdPacking": "10"
             },
             {
-                "code": "TPD32",
+                "code": "TP1D32",
                 "description": "32A",
                 "stdPacking": "10"
             },
             {
-                "code": "TPD40",
+                "code": "TP1D40",
                 "description": "40A",
                 "stdPacking": "10"
             },
             {
-                "code": "TPD50",
+                "code": "TP1D50",
                 "description": "50A",
                 "stdPacking": "10"
             },
             {
-                "code": "TPD65",
+                "code": "TP1D65",
                 "description": "65A",
                 "stdPacking": "5"
             },
             {
-                "code": "TPD80",
+                "code": "TP1D80",
                 "description": "80A",
                 "stdPacking": "5"
             }
@@ -746,6 +746,11 @@
                 "stdPacking": "200"
             },
             {
+                "code": "TP-15GWB",
+                "description": "Long Lever",
+                "stdPacking": "200"
+            },
+            {
                 "code": "TP-7121",
                 "description": "Long Hinge Roller Lever",
                 "stdPacking": "200"
@@ -859,6 +864,23 @@
                     "Frequency",
                     "Buzzer"
                 ]
+            }
+        ],
+        "models": [
+            {
+                "code": "AD16-22DS",
+                "description": "22.5mm 4SMD Multivolt",
+                "stdPacking": "10"
+            },
+            {
+                "code": "AD16-16DS",
+                "description": "16mm 4SMD Multivolt",
+                "stdPacking": "20"
+            },
+            {
+                "code": "AD16-22SM",
+                "description": "Indicator with Buzzer",
+                "stdPacking": "10"
             }
         ]
     },

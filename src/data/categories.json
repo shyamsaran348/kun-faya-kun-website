@@ -49,6 +49,24 @@
         ]
     },
     {
+        "id": "cables",
+        "name": "Cables & Wires",
+        "description": "Industrial copper, aluminium, flexible, XLPE, solar, and special application cables.",
+        "productFamilies": [
+            "Project Wires (200-300 Mtrs.)",
+            "Single Core Flexible Copper Cables",
+            "Multicore Flexible Copper Cables",
+            "XLPE Insulated Power Cables",
+            "Solar Cables",
+            "BMS Cables",
+            "Industrial Braided Cables",
+            "Copper Welding Cables",
+            "Aluminium Service Wires",
+            "Festoon Cables",
+            "Uninyvin Cables"
+        ]
+    },
+    {
         "id": "signaling-safety",
         "name": "Signaling & Safety",
         "productFamilies": [

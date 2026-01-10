@@ -987,5 +987,345 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "project-wires",
+        "name": "Project Wires (200-300 Mtrs.)",
+        "category": "cables",
+        "image": "/images/products/cables/project-wires.png",
+        "description": "Premium quality industrial project wires in 200-300 meter packaging options.",
+        "features": [
+            "Industrial Earth/Project Wire",
+            "Marked 'Project Wires' on Box",
+            "Available in 200m - 300m Coils",
+            "High conductivity copper"
+        ],
+        "typesAvailable": [
+            {
+                "label": "Packing",
+                "values": [
+                    "200 Mtrs",
+                    "300 Mtrs"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "aluminium-service-wires",
+        "name": "Aluminium Service Wires",
+        "category": "cables",
+        "image": "/images/products/cables/aluminium-service-wires.png",
+        "description": "Durable aluminium service wires for efficient power distribution and service connections.",
+        "features": [
+            "Solid Aluminium Conductor",
+            "PVC Insulated & Sheathed",
+            "Twin Core Flat & Three Core Round Options",
+            "Conforms to IS 694",
+            "Voltage Grade 1100 Volts"
+        ],
+        "typesAvailable": [
+            {
+                "label": "Sizes (Alert)",
+                "values": [
+                    "2.5 sqmm",
+                    "4 sqmm",
+                    "6 sqmm",
+                    "10 sqmm",
+                    "16 sqmm"
+                ]
+            },
+            {
+                "label": "Configuration",
+                "values": [
+                    "2 Core (Flat)",
+                    "3 Core (Round)",
+                    "4 Core (Round)"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "single-core-flexible-cables",
+        "name": "Single Core Flexible Copper Cables",
+        "category": "cables",
+        "image": "/images/products/cables/single-core-flexible-cables.png",
+        "description": "High quality single core flexible copper cables for various industrial applications.",
+        "features": [
+            "Bright Annealed Electrolytic Bare Copper",
+            "Unsheathed Industrial Multistrand",
+            "FR / FRLS / FRLSH / HFFR Variants",
+            "Conforms to IS 694:2010",
+            "Voltage Grade 1100 Volts"
+        ],
+        "typesAvailable": [
+            {
+                "label": "Sizes",
+                "values": [
+                    "0.75 sqmm",
+                    "1.0 sqmm",
+                    "1.5 sqmm",
+                    "2.5 sqmm",
+                    "4 sqmm",
+                    "6 sqmm",
+                    "10 sqmm",
+                    "16 sqmm"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "multicore-flexible-cables",
+        "name": "Multicore Flexible Copper Cables",
+        "category": "cables",
+        "image": "/images/products/cables/multicore-flexible-cables.png",
+        "description": "Robust multicore flexible cables designed for control panels and industrial machinery.",
+        "features": [
+            "High Conductivity Bare Copper",
+            "PVC / FRLS Round Sheathed",
+            "Voltage Grade 1100 Volts",
+            "Conforms to IS 694:2010"
+        ],
+        "typesAvailable": [
+            {
+                "label": "Core Configurations",
+                "values": [
+                    "2 Core",
+                    "3 Core",
+                    "4 Core",
+                    "6-24 Core"
+                ]
+            },
+            {
+                "label": "Sizes",
+                "values": [
+                    "0.5 sqmm",
+                    "0.75 sqmm",
+                    "1.0 sqmm",
+                    "1.5 sqmm",
+                    "2.5 sqmm",
+                    "4 sqmm"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "xlpe-power-cables",
+        "name": "XLPE Insulated Power Cables",
+        "category": "cables",
+        "image": "/images/products/cables/xlpe-power-cables.png",
+        "description": "Heavy duty XLPE insulated power cables for reliable transmission in industrial plants.",
+        "features": [
+            "Circular/Compact Comb Strand",
+            "Copper or Aluminium Conductor",
+            "Extruded PVC Inner Sheath",
+            "Galvanized Steel Armoured (Strip/Wire)",
+            "Conforms to IS 7098 (Part-1)"
+        ],
+        "typesAvailable": [
+            {
+                "label": "Variants",
+                "values": [
+                    "Single Core Unarmoured",
+                    "Single Core Armoured",
+                    "Multi Core Armoured"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "bms-cables",
+        "name": "BMS (Building Management System) Cables",
+        "category": "cables",
+        "image": "/images/products/cables/bms-cables.png",
+        "description": "Specialized cables for building automation, management, and control systems.",
+        "features": [
+            "Flexible Bare Copper Conductor",
+            "PVC Insulated, Cross Laid Up",
+            "Overall Aluminium Mylar Tape Shielded",
+            "ATC Drain Wire included"
+        ],
+        "typesAvailable": [
+            {
+                "label": "Cross Section",
+                "values": [
+                    "0.5 sqmm",
+                    "0.75 sqmm",
+                    "1.0 sqmm",
+                    "1.5 sqmm",
+                    "2.5 sqmm"
+                ]
+            },
+            {
+                "label": "Cores",
+                "values": [
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "8",
+                    "... 24"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "solar-cables",
+        "name": "Solar Cables",
+        "category": "cables",
+        "image": "/images/products/cables/solar-cables.png",
+        "description": "High performance solar cables designed to withstand harsh outdoor environmental conditions.",
+        "features": [
+            "Flexible Tinned Copper Conductor",
+            "Cross Linked LSZH Insulation & Sheath",
+            "UV Resistant, Heat Resistant",
+            "Conforms to EN 50618",
+            "Rated 120°C"
+        ],
+        "typesAvailable": [
+            {
+                "label": "Sizes",
+                "values": [
+                    "2.5 sqmm",
+                    "4 sqmm",
+                    "6 sqmm",
+                    "10 sqmm",
+                    "16 sqmm",
+                    "25 sqmm"
+                ]
+            },
+            {
+                "label": "Colors",
+                "values": [
+                    "Red",
+                    "Black"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "industrial-braided-cables",
+        "name": "Industrial Braided Cables",
+        "category": "cables",
+        "image": "/images/products/cables/braided-cables.png",
+        "description": "Shielded braided cables for noise suppression in sensitive industrial controls.",
+        "features": [
+            "Annealed Bare Copper Flexible Conductor",
+            "PVC Insulated",
+            "Tinned Cu Braided (Screened)",
+            "Overall PVC Sheathed"
+        ],
+        "typesAvailable": [
+            {
+                "label": "Sizes",
+                "values": [
+                    "0.5 sqmm",
+                    "0.75 sqmm",
+                    "1.0 sqmm",
+                    "1.5 sqmm",
+                    "2.5 sqmm"
+                ]
+            },
+            {
+                "label": "Cores",
+                "values": [
+                    "2 - 24 Cores"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "welding-cables",
+        "name": "Copper Welding Cables",
+        "category": "cables",
+        "image": "/images/products/cables/welding-cables.png",
+        "description": "Highly flexible copper welding cables for heavy duty industrial welding equipment.",
+        "features": [
+            "Flexible Copper Conductor",
+            "HOFR (Heat Oil Fire Retardant) Insulation",
+            "1100 Volts Welding Cable",
+            "IS 9858 Standard"
+        ],
+        "typesAvailable": [
+            {
+                "label": "Sizes",
+                "values": [
+                    "16 sqmm",
+                    "25 sqmm",
+                    "35 sqmm",
+                    "50 sqmm",
+                    "70 sqmm",
+                    "95 sqmm",
+                    "120 sqmm"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "festoon-cables",
+        "name": "Festoon Cables",
+        "category": "cables",
+        "image": "/images/products/cables/festoon-cables.png",
+        "description": "Durable cables designed for cranes, hoists and moving machinery.",
+        "features": [
+            "Multistranded Bare Copper",
+            "PVC Insulated & Sheathed",
+            "Flat & Flexible for Motion",
+            "Detailed per IS 694"
+        ],
+        "typesAvailable": [
+            {
+                "label": "Configuration",
+                "values": [
+                    "3 Core",
+                    "4 Core"
+                ]
+            },
+            {
+                "label": "Sizes",
+                "values": [
+                    "0.5 sqmm",
+                    "0.75 sqmm",
+                    "1.0 sqmm",
+                    "1.5 sqmm",
+                    "2.5 sqmm",
+                    "4.0 sqmm"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "uninyvin-cables",
+        "name": "Uninyvin Cables",
+        "category": "cables",
+        "image": "/images/products/cables/uninyvin-cables.png",
+        "description": "High temperature resistant Uninyvin cables for specialized control panel wiring.",
+        "features": [
+            "Annealed Tinned Copper Conductor",
+            "105°C PVC Insulation",
+            "Nylon Braiding with Lacquer Coating",
+            "High Temp Resistance"
+        ],
+        "typesAvailable": [
+            {
+                "label": "Cable Sizes",
+                "values": [
+                    "22",
+                    "20",
+                    "18",
+                    "16",
+                    "14",
+                    "12",
+                    "10",
+                    "8",
+                    "6",
+                    "4",
+                    "2",
+                    "1",
+                    "0",
+                    "00"
+                ]
+            }
+        ]
     }
 ]

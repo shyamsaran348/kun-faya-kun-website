@@ -59,6 +59,17 @@ const ProductDetail = () => {
                             {product.description}
                         </p>
 
+                        {product.features && product.features.length > 0 && (
+                            <div className="product-features" style={{ marginBottom: '24px' }}>
+                                <h3 style={{ fontSize: '1.1rem', marginBottom: '12px', color: '#0f172a', fontWeight: 600 }}>Key Features</h3>
+                                <ul style={{ paddingLeft: '20px', listStyleType: 'disc' }}>
+                                    {product.features.map((feature, index) => (
+                                        <li key={index} style={{ marginBottom: '8px', color: '#334155' }}>{feature}</li>
+                                    ))}
+                                </ul>
+                            </div>
+                        )}
+
                         <TypesAvailable types={product.typesAvailable} />
 
                         {product.models && product.models.length > 0 && (

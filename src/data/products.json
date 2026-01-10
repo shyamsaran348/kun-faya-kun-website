@@ -1057,6 +1057,48 @@
             "Conforms to IS 694:2010",
             "Voltage Grade 1100 Volts"
         ],
+        "models": [
+            {
+                "code": "0.75 sqmm",
+                "description": "Standard 100m Coil",
+                "stdPacking": "24"
+            },
+            {
+                "code": "1.0 sqmm",
+                "description": "Standard 100m Coil",
+                "stdPacking": "20"
+            },
+            {
+                "code": "1.5 sqmm",
+                "description": "Standard 100m Coil",
+                "stdPacking": "16"
+            },
+            {
+                "code": "2.5 sqmm",
+                "description": "Standard 100m Coil",
+                "stdPacking": "12"
+            },
+            {
+                "code": "4.0 sqmm",
+                "description": "Standard 100m Coil",
+                "stdPacking": "8"
+            },
+            {
+                "code": "6.0 sqmm",
+                "description": "Standard 100m Coil",
+                "stdPacking": "6"
+            },
+            {
+                "code": "10 sqmm",
+                "description": "Standard 100m Coil",
+                "stdPacking": "1"
+            },
+            {
+                "code": "16 sqmm",
+                "description": "Standard 100m Coil",
+                "stdPacking": "1"
+            }
+        ],
         "typesAvailable": [
             {
                 "label": "Sizes",
